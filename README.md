@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer and Web Developer
 -------------------------------------------
 
-Hey there! I am a Machine Learning Engineer and do lots of awesome stuff, such as creating a simple weather prediction model, creating a fully functional AI bot, and many more! I have a keen interest in artificial intelligence, and I am curious to know where we will end up with it! I am also a web developer, and I sometimes make small websites to help small businesses grow. I know HTML and CSS, but I'm certainly new to JavaScript! I am open to working on related projects, so send me a message or something, and who knows? We can make something awesome 😏!
+<p>Hey there! I am a Machine Learning Engineer and do lots of awesome stuff, such as creating a simple weather prediction model, creating a fully functional AI bot, and many more! I have a keen interest in artificial intelligence, and I am curious to know where we will end up with it!</p> <p>I am also a web developer, and I sometimes make small websites to help small businesses grow. I know HTML and CSS, but I'm certainly new to JavaScript!</p> <p>I am open to working on related projects, so send me a message or something, and who knows? We can make something awesome 😏!</p>
 
 * 🌍  I'm based in Ghaziabad, India
 * ✉️  You can contact me at [kumar.lavish.0109@gmail.com](mailto:kumar.lavish.0109@gmail.com)
