@@ -12,6 +12,7 @@ Machine Learning Engineer and Web Developer
 * 🧠  I'm learning JavaScript and Docker
 * 🤝  I'm open to collaborating on Python Projects, if possible on Machine Learning and Artificial Intelligence projects
 * ⚡  My friends call me Loobiish so you can either call me Lavish or Loobiish 😁!
+* 😬  Most of the time I work on private repositories so don't judge me on the basis of commits you are seeing on my profile 😬!!!
 
 ### Skills
 
