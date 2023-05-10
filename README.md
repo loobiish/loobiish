@@ -52,7 +52,7 @@ Machine Learning Engineer and Web Developer
 
 <a href="http://www.github.com/loobiish"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=loobiish&bg_color=151321&color=D03777&line=90D9D6&point=E0C342&area_color=151321&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/loobiish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loobiish&langs_count=5&title_color=D03777&text_color=90D9D6&icon_color=D03777&bg_color=151321&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/loobiish" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loobiish&langs_count=7&title_color=D03777&text_color=90D9D6&icon_color=D03777&bg_color=151321&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
