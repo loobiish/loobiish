@@ -63,5 +63,11 @@ Machine Learning Engineer and Web Developer
 <a href="https://github.com/loobiish/Python-Personal-Assistant">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loobiish&repo=Python-Personal-Assistant&theme=radical&title_color=D03777&text_color=90D9D6" />
 </a>
+<a href="https://github.com/loobiish/Student-Career-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loobiish&repo=Sign-Language-Translator&theme=radical&title_color=D03777&text_color=90D9D6" />
+</a>
+<a href="https://github.com/loobiish/Nearest-College-Recommendation-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loobiish&repo=Sign-Language-Translator&theme=radical&title_color=D03777&text_color=90D9D6" />
+</a>
 </div>
 <br /><br /><br /><br /><br /><br /><br />
