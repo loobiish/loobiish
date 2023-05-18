@@ -10,8 +10,8 @@ Machine Learning Engineer and Web Developer
 
 * 🌍  I'm based in Ghaziabad, India
 * ✉️  You can contact me at [kumar.lavish.0109@gmail.com](mailto:kumar.lavish.0109@gmail.com)
-* 🚀  I'm currently working on [HimCadd](http://himcadd.com)
-* 🧠  I'm learning JavaScript and Docker
+* 🚀  I'm currently working on [HimCadd](http://himcadd.com) and many more websites! 
+* 🧠 I'm learning JavaScript and Docker
 * 🤝  I'm open to collaborating on Python Projects, if possible on Machine Learning and Artificial Intelligence projects
 * ⚡  My friends call me Loobiish so you can either call me Lavish or Loobiish 😁!
 
