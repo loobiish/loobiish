@@ -10,8 +10,7 @@ Machine Learning Engineer and Web Developer
 
 * 🌍  I'm based in Ghaziabad, India
 * ✉️  You can contact me at [kumar.lavish.0109@gmail.com](mailto:kumar.lavish.0109@gmail.com)
-* 🚀  I'm currently working on [HimCadd](http://himcadd.com) and many more websites! 
-* 🧠 I'm learning JavaScript and Docker
+* 🧠  I'm learning JavaScript and Docker
 * 🤝  I'm open to collaborating on Python Projects, if possible on Machine Learning and Artificial Intelligence projects
 * ⚡  My friends call me Loobiish so you can either call me Lavish or Loobiish 😁!
 
@@ -45,8 +44,6 @@ Machine Learning Engineer and Web Developer
 ### Badges
 
 <b>My GitHub Stats</b>
-
-![Lavish's GitHub stats](https://github-readme-stats.vercel.app/api?username=loobiish&show_icons=true&theme=radical)
 
 <a href="http://www.github.com/loobiish"><img src="https://github-readme-streak-stats.herokuapp.com/?user=loobiish&stroke=90D9D6&background=151321&ring=D03777&fire=D03777&currStreakNum=90D9D6&currStreakLabel=90D9D6&sideNums=90D9D6&sideLabels=90D9D6&dates=90D9D6&hide_border=true" /></a>
 
